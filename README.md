@@ -1,0 +1,2 @@
+I have added some sudokus to try out, you have to go to the input class and change the filename to select the sudoku which you want to solve.
+Haven't reached my goal of solving the worlds hardest sudoku, for which you have to use guesses. I have implemented a function which saves the current state of the sudoku to a file, then tries out a number and if it isn't correct, it resets the saved sudoku to try another one, but the algorithm isn't good enouth to finish the hardest sudoku or just finishes in an infinit loop.
